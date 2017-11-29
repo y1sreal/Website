@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+  <head>
+    <title>Tang Yiliu</title>
+    <link href="Main.css" rel="stylesheet">
+    <link href="Customization.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">Yiliu</a>
+        </div>
+      </div>
+    </div>
+    
+    <div id="white">
+	    <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <p><img src="assets/img/user.png" width="50px" height="50px"> <ba>Stanley Stinson</ba></p>
+            <p><bd>November 29, 2017</bd></p>
+            <h4>The Plow that Broke the Plains</h4>
+            <p>The documentary The Plow That Broke the Plains depicts how the Great Plains rose and then fell due to poor agricultural planning and strategies. </p>
+            <p>At the beginning of the documentary, the Great Plains is characterized with several words – “wind, sun, treeless, no river, no stream, little rain.” These few words constitute the overarching issue – no matter how humans strive to shape the environment into their desired states, humans are always bounded by nature and her sporadic yet inexorable forces. </p>
+            <p>Farmers tried to “break” the land with technology. As shown in the documentary, they employed various types of machineries that greatly enhanced their productivity, including cultivators, ploughing machines and harvesters. These machines were at first driven by “horse-power”, with horses pulling the machines. In the later stage, machines were full mechanized and powered by engines which provided enhanced “horse-power”, greater reliability and longer working hours. With technology, everything seemed to be on the right track and farmers did achieve some extent of success with this wheat-growing business, although the underlying issues remained: “it was 200 miles from water” and “the rain failed and the sun baked the soil”. The development of technology back then did not render farmers the power to channel water from 200 miles away for irrigation. The level of sunlight and heat were also variables, contributing to the volatility of agriculture on the Great Plains.</p> 
+            <p>With wars going on and a greater demand for food security, the price of wheat rose, attracting more people into the farming business. The documentary then made an analogy, whereby the roaring tanks were compared to the grinding harvesters, both of them creating smoke and dust. Humans employ machines to fight humans. Humans employ machines to fight nature as well. </p>
+            <p>With farmers’ endeavors, the aid from technology, and government’s active support, “by 1933, the old grassland has become the new wheatland.1” This, however, was built upon over-working of the lands and massive amount of pollution, making the development unsustainable. The attempt was natural, given human’s constant desire to expand. Nevertheless, it was poorly-planned, with the farmers being almost completely oblivious to the future consequences of their action. Ultimately, it came to an end, where animals’ skulls piled the parched soil and machines turned into obsolete scraps. Farmers ended up homeless, and the old grass land, after the wheatland period, became a wasteland. </p>
+            <p>Indeed, with the development of technology, humans have come up with hundreds of ways to boost agricultural productivity. They are increasingly efficient, and at the same time ever-more aggressive. An aggressive stance, however, should not be taken, or at least should not be taken for granted in the constant human battle against natural forces. The pollution humans produce ultimately return to humans after going through the ecological cycle. A sustainable approach should almost always be given priority. After all, humans live off the fruits of nature. </p>
+            <hr>
+            <p><a href="index.html">&larr; Back</a></p>
+          </div>
+
+			  </div>
+	    </div> 
+	</div>
+ </body>
+</html>
